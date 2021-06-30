@@ -30,7 +30,6 @@ I am Tomás Guerineau, a lover of programming, marketing and football. Currently
 <br>
 <!-- ## Skills -->
 <h2>Skills</h2>
-<br>
 <div style="display:flex;">
 <img align="left" alt="mongodb" src="./mongodb.jpg" />
 <img align="left" alt="express" src="./express.jpg" />
