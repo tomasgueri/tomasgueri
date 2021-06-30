@@ -1,5 +1,5 @@
-<div align="center">
-  <img alt="Code" src="https://images.unsplash.com/photo-1546900703-cf06143d1239?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=991&q=80" style="max-height:163px; width:100; height: auto; max-width:100%" />
+<div align="center" style="background: url(https://images.unsplash.com/photo-1546900703-cf06143d1239?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=991&q=80); background-size: 100% 400px; background-position: center; background-repeat: no-repeat;">
+<!--   <img alt="Code" src="https://images.unsplash.com/photo-1546900703-cf06143d1239?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=991&q=80" style="max-height:163px; width:100; height: auto; max-width:100%" /> -->
 </div>
 <div align="center">
   <strong>Tomás Guerineau - Full Stack Web Developer</strong>
