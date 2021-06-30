@@ -11,18 +11,25 @@
 <a href="https://www.linkedin.com/in/tomas-guerineau-065431215"> <img align="left" alt="linked-in" src="./linkedin-up.jpg" /></a>
 <a href="https://api.whatsapp.com/send?phone=+5493816518701"> <img align="left" alt="linked-in" src="./whatsapp-up.jpg" /></a>
 <a href="mailto:tomasguerineau@gmail.com"> <img align="left" alt="linked-in" src="./email-up.jpg" /></a>
+<a href="download/CV - Guerineau, Tomás (En).pdf" download="CV - Guerineau, Tomás (En).pdf"> <img align="left" alt="linked-in" src="./email-up.jpg" /></a>
 </div>
 <br>
 <br>
 <br>
 <br>
-# About me
+<!-- # About me -->
+<h1>About me</h1>
 <br>
 I am Tomás Guerineau, a lover of programming, marketing and football. Currently I work with the MERN stack (Mongodb, Express, React, Node) and I am always open to implement new technologies. I strive to improve my English and to learn everything necessary to continue growing as a professional.
 <br>
 <br>
-## Skills
+<!-- ## languages -->
+<h2>Languages</h2>
+<p><b>Spanish</b> - Native language</p>
+<p><b>English</b> - Basic level</p>
 <br>
+<!-- ## Skills -->
+<h2>Skills</h2>
 <br>
 <div style="display:flex;">
 <img align="left" alt="mongodb" src="./mongodb.jpg" />
@@ -37,10 +44,21 @@ I am Tomás Guerineau, a lover of programming, marketing and football. Currently
 <br>
 <br>
 <br>
+<h2>Education</h2>
+<li><b>Full Stack Course - Rolling Code</b> - Complete - 2020 - 2021</li>
+  <p> The MERN Stack (Mongodb, Express, React, Node) / HTML5 - CSS3 - JavaScript (ECMAScript 6 - OOP) </p>
+  <a href="https://desafio-final-beta.vercel.app/"> Final project </a>
+  <p> 100% dynamic e-commerce, built with React and Express. </p>
+<br>
+  <li><b>Higher Technique in Programming - UTN</b> (The National Technological University)</li>
+  <p> 40% of the university degree completed - 2018 </p>
+<br>
+  <li><b>Architect - FAU of the UNT</b> (The National University of Tucumán)</li>
+  <p> Carried out up to 3rd year - 2013 - 2017 </p>
 <br>
 <br>
-## work experience
-<br>
+<!-- ## work experience -->
+<h2>Work experience</h2>
 <br>
 <p><b>Freelancer</b> creating web pages for companies and ventures. </p>
 <ul>
