@@ -32,13 +32,18 @@ I am Tomás Guerineau, a lover of programming, marketing and football. Currently
 </div>
 <br>
 <br>
+<br>
+<br>
+<br>
 ## work experience
 <br>
 <p><b>Freelancer</b> creating web pages for companies and ventures. </p>
-<a href="http://ctlargentinaconstructora.com/">ctlargentinaconstructora.com</a>
-<a href="https://www.exelsusoncologia.com/">exelsusoncologia.com</a>
-<a href="http://clicmarketingdigital.com.ar/">clicmarketingdigital.com.ar</a>
-<a href="https://groov.vercel.app/">Groove Episodes</a>
+<ul>
+  <li><a href="http://ctlargentinaconstructora.com/">ctlargentinaconstructora.com</a></li>
+  <li><a href="https://www.exelsusoncologia.com/">exelsusoncologia.com</a></li>
+  <li><a href="http://clicmarketingdigital.com.ar/">clicmarketingdigital.com.ar</a></li>
+  <li><a href="https://groov.vercel.app/">Groove Episodes</a></li>
+</ul>
 <br>
 <br>
 
