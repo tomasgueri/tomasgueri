@@ -20,6 +20,7 @@ I am Tomás Guerineau, a lover of programming, marketing and football. Currently
 ## Skills
 <br>
 <br>
+<div style="display:flex;">
 <img align="left" alt="express" src="./express.jpg" />
 <img align="left" alt="react" src="./react.jpg" />
 <img align="left" alt="nodejs" src="./node.jpg" />
@@ -27,7 +28,7 @@ I am Tomás Guerineau, a lover of programming, marketing and football. Currently
 <img align="left" alt="javascript" src="./javascript.jpg" />
 <img align="left" alt="css3" src="./css3.jpg" />
 <img align="left" alt="html5" src="./html5.jpg" />
-
+</div>
 <br>
 <br>
 
