@@ -44,6 +44,8 @@ I am Tomás Guerineau, a lover of programming, marketing and football. Currently
 <br>
 <br>
 <br>
+<br>
+<br>
 <h2>Education</h2>
 <li><b>Full Stack Course - Rolling Code</b> - Complete - 2020 - 2021</li>
   <p> The MERN Stack (Mongodb, Express, React, Node) / HTML5 - CSS3 - JavaScript (ECMAScript 6 - OOP) </p>
