@@ -5,6 +5,8 @@
 <div align="center">
   <strong>Tomás Guerineau - Full Stack Web Developer - The MERN stack</strong>
 </div>
+<br>
+<br>
 <div style="display:flex;">
 <a href="https://www.linkedin.com/in/tomas-guerineau-065431215"> <img align="left" alt="linked-in" src="./linkedin-up.jpg" /></a>
 <a href="https://api.whatsapp.com/send?phone=+5493816518701"> <img align="left" alt="linked-in" src="./whatsapp-up.jpg" /></a>
