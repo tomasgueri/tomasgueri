@@ -14,13 +14,12 @@
 </div>
 <br>
 <br>
-## About me
+# About me
 <br>
 I am Tomás Guerineau, a lover of programming, marketing and football. Currently I work with the MERN stack (Mongodb, Express, React, Node) and I am always open to implement new technologies. I strive to improve my English and to learn everything necessary to continue growing as a professional.
 <br>
 <br>
 ## Skills
-<br>
 <br>
 <div style="display:flex;">
 <img align="left" alt="mongodb" src="./mongodb.jpg" />
@@ -34,6 +33,13 @@ I am Tomás Guerineau, a lover of programming, marketing and football. Currently
 <br>
 <br>
 ## work experience
+<br>
+<p><b>Freelancer</b> creating web pages for companies and ventures. </p>
+<a href="http://ctlargentinaconstructora.com/">ctlargentinaconstructora.com</a>
+<a href="https://www.exelsusoncologia.com/">exelsusoncologia.com</a>
+<a href="http://clicmarketingdigital.com.ar/">clicmarketingdigital.com.ar</a>
+<a href="https://groov.vercel.app/">Groove Episodes</a>
+<br>
 <br>
 
 <!--
