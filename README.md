@@ -68,6 +68,11 @@ I am Tomás Guerineau, a lover of programming, marketing and football. Currently
   <li><a href="https://groov.vercel.app/">Groove Episodes</a></li>
 </ul>
 <br>
+<p><b>Freelancer</b> performing tasks in the Graphic Design and Marketing sector for companies and entrepreneurs. </p>
+<ul>
+  <li> Clic Marketing Digital - 2018 - 2019 </li>
+  <li> La Compañía Digital - 2019 - 2020 </li>
+</ul>
 <br>
 
 <!--
