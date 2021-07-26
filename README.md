@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/tomas-guerineau-065431215"> <img align="left" alt="linked-in" src="./linkedin-up.jpg" /></a>
 <a href="https://api.whatsapp.com/send?phone=+5493816518701"> <img align="left" alt="linked-in" src="./whatsapp-up.jpg" /></a>
 <a href="mailto:tomasguerineau@gmail.com"> <img align="left" alt="linked-in" src="./email-up.jpg" /></a>
-<a href="./CV - Guerineau, Tomás (En).pdf" download="CV - Guerineau, Tomás (En).pdf"> <img align="left" alt="linked-in" src="./curriculumvitae-up.jpg" /></a>
+<a href="./CV - Guerineau, Tomás - ReactJS & NodeJS Developer.pdf" download="CV - Guerineau, Tomás (En).pdf"> <img align="left" alt="linked-in" src="./curriculumvitae-up.jpg" /></a>
 </div>
 <br>
 <br>
