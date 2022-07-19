@@ -42,6 +42,8 @@ technologies. I strive to improve my English and learn everything necessary to c
 <img align="left" alt="html5" src="./html5.jpg" />
 </div>
 <br>
+<br>
+<br>
 Meteor.js - Drupal - SASS - SQL - PHP - Docker - Scrum - Axios - AntDesign - React Router - REST API
 <br>
 <br>
