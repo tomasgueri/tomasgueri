@@ -27,7 +27,8 @@ technologies. I strive to improve my English and learn everything necessary to c
 <!-- ## languages -->
 <h2>Languages</h2>
 <p><b>Spanish</b> - Native language</p>
-<p><b>English</b> - Basic level</p>
+<p><b>English</b> - B1</p>
+<p>With uninterrupted English classes since August 2021.</p>
 <br>
 <!-- ## Skills -->
 <h2>Skills</h2>
@@ -40,6 +41,7 @@ technologies. I strive to improve my English and learn everything necessary to c
 <img align="left" alt="css3" src="./css3.jpg" />
 <img align="left" alt="html5" src="./html5.jpg" />
 </div>
+Meteor.js - Drupal - SASS - SQL - PHP - Docker - Scrum - Axios - AntDesign - React Router - REST API
 <br>
 <br>
 <br>
@@ -61,6 +63,13 @@ technologies. I strive to improve my English and learn everything necessary to c
 <br>
 <!-- ## work experience -->
 <h2>Work experience</h2>
+<br>
+<p><b>WEKNOW Inc.</b> I worked as a Full Stack with large teams and international clients and maintaining internal platforms of the company. </p>
+<br>
+<p><b>App for the foundation "Yo Soy La Inmaculada Madre
+Del Divino Corazón Eucarístico de Jesús". App for
+  Android and IOs <a href="http://onelink.to/kjgyhz" target="_BLANK">Link to app</a>.</b> Built with React.js and converted into an App by the guys at
+  <a href="https://convertify.app/es" target="_BLANK">convertify.app</a>.</p>
 <br>
 <p><b>Freelancer</b> creating web pages for companies and ventures. </p>
 <ul>
