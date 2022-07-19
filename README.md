@@ -20,7 +20,8 @@
 <!-- # About me -->
 <h1>About me</h1>
 <br>
-I am Tomás Guerineau, a lover of programming, marketing and football. Currently I work with the MERN stack (Mongodb, Express, React, Node) and I am always open to implement new technologies. I strive to improve my English and to learn everything necessary to continue growing as a professional.
+I'm Tomás Guerineau, Full Stack developer. I currently work with Mongodb, Meteor.js, React.js, Node.js, SQL, PHP, but I'm always open to implementing new
+technologies. I strive to improve my English and learn everything necessary to continue growing as a professional.
 <br>
 <br>
 <!-- ## languages -->
