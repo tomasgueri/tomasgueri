@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/tomasgueri/"> <img align="left" alt="linked-in" src="./linkedin-up.jpg" /></a>
 <a href="https://api.whatsapp.com/send?phone=+5493816518701"> <img align="left" alt="linked-in" src="./whatsapp-up.jpg" /></a>
 <a href="mailto:tomasguerineau@gmail.com"> <img align="left" alt="linked-in" src="./email-up.jpg" /></a>
-<a href="./Guerineau, Tomás - Full Stack Developer.pdf" download="Guerineau, Tomás - Full Stack Developer.pdf"> <img align="left" alt="linked-in" src="./curriculumvitae-up.jpg" /></a>
+<a href="./CV Guerineau, Tomás - Full Stack Developer.pdf" download="CV Guerineau, Tomás - Full Stack Developer.pdf"> <img align="left" alt="linked-in" src="./curriculumvitae-up.jpg" /></a>
 </div>
 <br>
 <br>
