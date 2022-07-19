@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align="center">
-  <strong>Tomás Guerineau - ReactJs and NodeJs Developer - The MERN stack</strong>
+  <strong>Tomás Guerineau - Full Stack Developer</strong>
 </div>
 <br>
 <br>
