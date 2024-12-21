@@ -52,7 +52,7 @@ I'm Tomás Guerineau, an accomplished Full Stack Developer with several years of
 <!-- ## work experience -->
 <h2>Work experience</h2>
 <br>
-<p><b>Semi Senior Full Stack Web Developer at Pluribus - </b> The Learning Network - July 2024 - Currently working. </p>
+<h4><b>Semi Senior Full Stack Web Developer at Pluribus - </b> The Learning Network - July 2024 - Currently working. </h4>
 <p>As a full stack web developer, I specialize in building and maintaining dynamic, user-friendly web applications with a strong emphasis on frontend development. My current responsibilities include:</p>
 <ul>
   <li>Developing and optimizing web solutions using PHP, SQL, AWS and Docker.</li>
@@ -62,8 +62,9 @@ I'm Tomás Guerineau, an accomplished Full Stack Developer with several years of
 </ul>
 
 <br>
+<br>
 
-<p><b>Semi Senior Frontend Developer at Pluribus - </b> TeachAway/Skooli Online Tutoring - January 2024 - July 2024. </p>
+<h4><b>Semi Senior Frontend Developer at Pluribus - </b> TeachAway/Skooli Online Tutoring - January 2024 - July 2024. </h4>
 <p>In this role as Semi-senior frontend developer, I contributed to the development of an advanced meeting platform designed to facilitate seamless interactions between students and tutors. My responsibilities included:.</p>
 <ul>
   <li>Developing and maintaining features using React, TypeScript, and JavaScript, occasionally using Vue.js, GraphQL, among others, ensuring a responsive and user-friendly interface.</li>
@@ -75,12 +76,29 @@ I'm Tomás Guerineau, an accomplished Full Stack Developer with several years of
 </ul>
 
 <br>
-
-<p><b>WEKNOW Inc.</b> I worked as a Full Stack with large teams and international clients and maintaining internal platforms of the company. </p>
 <br>
-<p><b>App for the foundation "Yo Soy La Inmaculada Madre
-Del Divino Corazón Eucarístico de Jesús". App for
-  Android and IOs <a href="http://onelink.to/kjgyhz" target="_BLANK">Link to app</a>.</b> Built with React.js and converted into an App by the guys at
+
+<h4><b>WEKNOW Inc.</b> I worked as a Full Stack with large teams and international clients and maintaining internal platforms of the company. </h4>
+<p>I worked as a Full Stack developer in international teams for a client and also in an internal platform and the Company's own sites.</p>
+<ul>
+  <li>The company's website, built (in 2023) with state-of-the-art technologies like TypeScript, Next.js, Tailwind, Styled Components, and incorporating Atomic Design principles.</li>
+  <li>The company's platform provides tools for different areas of the company (Recruitment, HR, Management, Clients/projects, employees, etc), and I take care of maintaining it, creating new features and solving possible bugs. For it I use React.js, Node.js, Meteor.js, MongoDB and Sass.</li>
+</ul>
+<br>
+<p>For the Phase2 client I worked as Full Stack in different projects with international teams, in them I used Drupal, PHP, SQL, Twig and Sass. The projects are:</p>
+<ul>
+  <li>Multiple E-commerce site (multiple clients and translated into all languages), I worked on maintaining the site for 3 months, making changes requested by clients and solving bugs that the site had.
+</li>
+  <li>We created in +2 months a new site for a company that needed to train its employees, on the site you can see courses and documentation. On this site I was able to create a custom module and use multiple services.</li>
+  <li>We created a new site for a museum in 2 months, where you can see their works and also view/register for their events.</li>
+</ul>
+
+<br>
+<br>
+
+<h4><b>App for the foundation "Yo Soy La Inmaculada Madre
+Del Divino Corazón Eucarístico de Jesús".</b><h4>
+  <p>App for Android and IOs <a href="http://onelink.to/kjgyhz" target="_BLANK">Link to app</a>.</b> Built with React.js and converted into an App by the guys at
   <a href="https://convertify.app/es" target="_BLANK">convertify.app</a>.</p>
 <br>
 <p><b>Freelancer</b> creating web pages for companies and ventures. </p>
@@ -90,8 +108,11 @@ Del Divino Corazón Eucarístico de Jesús". App for
   <li><a href="http://clicmarketingdigital.com.ar/">clicmarketingdigital.com.ar</a></li>
   <li><a href="https://groov.vercel.app/">Groove Episodes</a></li>
 </ul>
+  
 <br>
-<p><b>Freelancer</b> performing tasks in the Graphic Design and Marketing sector for companies and entrepreneurs. </p>
+<br>
+
+<h4><b>Freelancer</b> performing tasks in the Graphic Design and Marketing sector for companies and entrepreneurs. </h4>
 <ul>
   <li> Clic Marketing Digital - 2018 - 2019 </li>
   <li> La Compañía Digital - 2019 - 2020 </li>
@@ -110,7 +131,7 @@ Del Divino Corazón Eucarístico de Jesús". App for
   <p> 40% of the university degree completed - 2018 </p>
 <br>
   <li><b>Architect - FAU of the UNT</b> (The National University of Tucumán)</li>
-  <p> Carried out up to 3rd year - 2013 - 2017 </p>
+  <p> Carried out up to 4rd year - 2013 - 2017 </p>
 <br>
 <br>
 
