@@ -101,7 +101,8 @@ Del Divino Corazón Eucarístico de Jesús".</b><h2>
   <p>App for Android and IOs <a href="http://onelink.to/kjgyhz" target="_BLANK">Link to app</a>.</b> Built with React.js and converted into an App by the guys at
   <a href="https://convertify.app/es" target="_BLANK">convertify.app</a>.</p>
 <br>
-<p><b>Freelancer</b> creating web pages for companies and ventures. </p>
+  
+<h2><b>Freelancer</b> creating web pages for companies and ventures. </h2>
 <ul>
   <li><a href="http://ctlargentinaconstructora.com/">ctlargentinaconstructora.com</a></li>
   <li><a href="https://www.exelsusoncologia.com/">exelsusoncologia.com</a></li>
