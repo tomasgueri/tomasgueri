@@ -26,8 +26,7 @@ I'm Tomás Guerineau, an accomplished Full Stack Developer with several years of
 <!-- ## languages -->
 <h2>Languages</h2>
 <p><b>Spanish</b> - Native language</p>
-<p><b>English</b> - B1</p>
-<p>With uninterrupted English classes since August 2021.</p>
+<p><b>English</b> - B2+</p>
 <br>
 <!-- ## Skills -->
 <h2>Skills</h2>
