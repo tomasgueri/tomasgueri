@@ -10,8 +10,8 @@
 <div style="display:flex;">
 <a href="https://www.linkedin.com/in/tomasgueri/"> <img align="left" alt="linked-in" src="./linkedin-up.jpg" /></a>
 <a href="https://api.whatsapp.com/send?phone=+5493816518701"> <img align="left" alt="linked-in" src="./whatsapp-up.jpg" /></a>
-<a href="mailto:tomasguerineau@gmail.com"> <img align="left" alt="linked-in" src="./email-up.jpg" /></a>
-<a href="./CV Guerineau, Tomás - Full Stack Developer.pdf" download="CV Guerineau, Tomás - Full Stack Developer.pdf"> <img align="left" alt="linked-in" src="./curriculumvitae-up.jpg" /></a>
+<a href="mailto:tomasguerineau.dev@gmail.com"> <img align="left" alt="linked-in" src="./email-up.jpg" /></a>
+<a href="./CV - Tomás Guerineau - Full Stack Developer.pdf" download="CV Guerineau, Tomás - Full Stack Developer.pdf"> <img align="left" alt="linked-in" src="./curriculumvitae-up.jpg" /></a>
 </div>
 <br>
 <br>
@@ -20,8 +20,7 @@
 <!-- # About me -->
 <h1>About me</h1>
 <br>
-I'm Tomás Guerineau, Full Stack developer. I currently work with Mongodb, Meteor.js, React.js, Node.js, SQL, PHP, but I'm always open to implementing new
-technologies. I strive to improve my English and learn everything necessary to continue growing as a professional.
+I'm Tomás Guerineau, an accomplished Full Stack Developer with several years of experience across diverse projects. Currently, I'm working at Teach Away, implementing TypeScript, JavaScript, AWS, Next.js, React.js, Sass and sometimes Vue.js, GraphQL, among others. My technical expertise spans from developing corporate websites, mobile applications, web platforms to freelance web development for startups. Dedicated to continual learning, I readily embrace new technologies and pursue professional growth relentlessly.
 <br>
 <br>
 <!-- ## languages -->
@@ -44,29 +43,40 @@ technologies. I strive to improve my English and learn everything necessary to c
 <br>
 <br>
 <br>
-Meteor.js - Drupal - SASS - SQL - PHP - Docker - Scrum - Axios - AntDesign - React Router - REST API
+ AWS - Next.js - Meteor.js - Drupal - SASS - SQL - PHP - Docker - Scrum - Axios - AntDesign - React Router - REST API
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<h2>Education</h2>
-<li><b>Full Stack Course - Rolling Code</b> - Complete - 2020 - 2021</li>
-  <p> The MERN Stack (Mongodb, Express, React, Node) / HTML5 - CSS3 - JavaScript (ECMAScript 6 - OOP) </p>
-  <a href="https://desafio-final-beta.vercel.app/"> Final project </a>
-  <p> 100% dynamic e-commerce, built with React and Express. </p>
-<br>
-  <li><b>Higher Technique in Programming - UTN</b> (The National Technological University)</li>
-  <p> 40% of the university degree completed - 2018 </p>
-<br>
-  <li><b>Architect - FAU of the UNT</b> (The National University of Tucumán)</li>
-  <p> Carried out up to 3rd year - 2013 - 2017 </p>
 <br>
 <br>
 <!-- ## work experience -->
 <h2>Work experience</h2>
 <br>
+<p><b>Semi Senior Full Stack Web Developer at Pluribus - </b> The Learning Network - July 2024 - Currently working. </p>
+<p>As a full stack web developer, I specialize in building and maintaining dynamic, user-friendly web applications with a strong emphasis on frontend development. My current responsibilities include:</p>
+<ul>
+  <li>Developing and optimizing web solutions using PHP, SQL, AWS and Docker.</li>
+  <li>Creating intuitive, responsive, and scalable user interfaces tailored to meet client needs using React.js, Next.js, JavaScript, TypeScript, among others.</li>
+  <li>Collaborating with cross-functional teams to integrate frontend and backend components seamlessly.</li>
+  <li>Implementing performance optimizations and ensuring high-quality code through testing and debugging.</li>
+</ul>
+
+<br>
+
+<p><b>Semi Senior Frontend Developer at Pluribus - </b> TeachAway/Skooli Online Tutoring - January 2024 - July 2024. </p>
+<p>In this role as Semi-senior frontend developer, I contributed to the development of an advanced meeting platform designed to facilitate seamless interactions between students and tutors. My responsibilities included:.</p>
+<ul>
+  <li>Developing and maintaining features using React, TypeScript, and JavaScript, occasionally using Vue.js, GraphQL, among others, ensuring a responsive and user-friendly interface.</li>
+  <li>Integrating AWS Chime SDK to enable high-quality video conferencing, audio controls, and meeting functionalities.</li>
+  <li>Building reusable and efficient components.</li>
+  <li>Collaborating with cross-functional teams to implement new features and optimize existing ones for performance and scalability.</li>
+  <li>Debugging and resolving technical challenges to maintain a high standard of functionality and reliability.</li>
+  <li>Working with backend developers to ensure seamless integration with server-side logic.</li>
+</ul>
+
+<br>
+
 <p><b>WEKNOW Inc.</b> I worked as a Full Stack with large teams and international clients and maintaining internal platforms of the company. </p>
 <br>
 <p><b>App for the foundation "Yo Soy La Inmaculada Madre
@@ -87,6 +97,22 @@ Del Divino Corazón Eucarístico de Jesús". App for
   <li> Clic Marketing Digital - 2018 - 2019 </li>
   <li> La Compañía Digital - 2019 - 2020 </li>
 </ul>
+<br>
+<br>
+<br>
+
+<h2>Education</h2>
+<li><b>Full Stack Course - Rolling Code</b> - Complete - 2020 - 2021</li>
+  <p> The MERN Stack (Mongodb, Express, React, Node) / HTML5 - CSS3 - JavaScript (ECMAScript 6 - OOP) </p>
+  <a href="https://desafio-final-beta.vercel.app/"> Final project </a>
+  <p> 100% dynamic e-commerce, built with React and Express. </p>
+<br>
+  <li><b>Higher Technique in Programming - UTN</b> (The National Technological University)</li>
+  <p> 40% of the university degree completed - 2018 </p>
+<br>
+  <li><b>Architect - FAU of the UNT</b> (The National University of Tucumán)</li>
+  <p> Carried out up to 3rd year - 2013 - 2017 </p>
+<br>
 <br>
 
 <!--
