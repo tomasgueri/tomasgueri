@@ -24,12 +24,12 @@ I'm Tomás Guerineau, an accomplished Full Stack Developer with several years of
 <br>
 <br>
 <!-- ## languages -->
-<h2>Languages</h2>
+<h1>Languages</h1>
 <p><b>Spanish</b> - Native language</p>
 <p><b>English</b> - B2+</p>
 <br>
 <!-- ## Skills -->
-<h2>Skills</h2>
+<h1>Skills</h1>
 <div style="display:flex;">
 <img align="left" alt="mongodb" src="./mongodb.jpg" />
 <img align="left" alt="express" src="./express.jpg" />
@@ -50,9 +50,9 @@ I'm Tomás Guerineau, an accomplished Full Stack Developer with several years of
 <br>
 <br>
 <!-- ## work experience -->
-<h2>Work experience</h2>
+<h1>Work experience</h1>
 <br>
-<h4><b>Semi Senior Full Stack Web Developer at Pluribus - </b> The Learning Network - July 2024 - Currently working. </h4>
+<h2><b>Semi Senior Full Stack Web Developer at Pluribus - </b> The Learning Network - July 2024 - Currently working. </h2>
 <p>As a full stack web developer, I specialize in building and maintaining dynamic, user-friendly web applications with a strong emphasis on frontend development. My current responsibilities include:</p>
 <ul>
   <li>Developing and optimizing web solutions using PHP, SQL, AWS and Docker.</li>
@@ -64,7 +64,7 @@ I'm Tomás Guerineau, an accomplished Full Stack Developer with several years of
 <br>
 <br>
 
-<h4><b>Semi Senior Frontend Developer at Pluribus - </b> TeachAway/Skooli Online Tutoring - January 2024 - July 2024. </h4>
+<h2><b>Semi Senior Frontend Developer at Pluribus - </b> TeachAway/Skooli Online Tutoring - January 2024 - July 2024. </h2>
 <p>In this role as Semi-senior frontend developer, I contributed to the development of an advanced meeting platform designed to facilitate seamless interactions between students and tutors. My responsibilities included:.</p>
 <ul>
   <li>Developing and maintaining features using React, TypeScript, and JavaScript, occasionally using Vue.js, GraphQL, among others, ensuring a responsive and user-friendly interface.</li>
@@ -78,7 +78,7 @@ I'm Tomás Guerineau, an accomplished Full Stack Developer with several years of
 <br>
 <br>
 
-<h4><b>WEKNOW Inc.</b> I worked as a Full Stack with large teams and international clients and maintaining internal platforms of the company. </h4>
+<h2><b>WEKNOW Inc.</b> I worked as a Full Stack with large teams and international clients and maintaining internal platforms of the company. </h2>
 <p>I worked as a Full Stack developer in international teams for a client and also in an internal platform and the Company's own sites.</p>
 <ul>
   <li>The company's website, built (in 2023) with state-of-the-art technologies like TypeScript, Next.js, Tailwind, Styled Components, and incorporating Atomic Design principles.</li>
@@ -96,8 +96,8 @@ I'm Tomás Guerineau, an accomplished Full Stack Developer with several years of
 <br>
 <br>
 
-<h4><b>App for the foundation "Yo Soy La Inmaculada Madre
-Del Divino Corazón Eucarístico de Jesús".</b><h4>
+<h2><b>App for the foundation "Yo Soy La Inmaculada Madre
+Del Divino Corazón Eucarístico de Jesús".</b><h2>
   <p>App for Android and IOs <a href="http://onelink.to/kjgyhz" target="_BLANK">Link to app</a>.</b> Built with React.js and converted into an App by the guys at
   <a href="https://convertify.app/es" target="_BLANK">convertify.app</a>.</p>
 <br>
@@ -112,7 +112,7 @@ Del Divino Corazón Eucarístico de Jesús".</b><h4>
 <br>
 <br>
 
-<h4><b>Freelancer</b> performing tasks in the Graphic Design and Marketing sector for companies and entrepreneurs. </h4>
+<h2><b>Freelancer</b> performing tasks in the Graphic Design and Marketing sector for companies and entrepreneurs. </h2>
 <ul>
   <li> Clic Marketing Digital - 2018 - 2019 </li>
   <li> La Compañía Digital - 2019 - 2020 </li>
@@ -121,7 +121,7 @@ Del Divino Corazón Eucarístico de Jesús".</b><h4>
 <br>
 <br>
 
-<h2>Education</h2>
+<h1>Education</h1>
 <li><b>Full Stack Course - Rolling Code</b> - Complete - 2020 - 2021</li>
   <p> The MERN Stack (Mongodb, Express, React, Node) / HTML5 - CSS3 - JavaScript (ECMAScript 6 - OOP) </p>
   <a href="https://desafio-final-beta.vercel.app/"> Final project </a>
